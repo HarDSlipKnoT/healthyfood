@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "HelveticaNeue-Black";
+    src: url(../fonts/HelveticaNeueBlackCondensed.woff2) format("truetype");
+    font-weight: 900;
+  }
+  
+  @font-face {
+    font-family: "HelveticaNeue-Bold";
+    src: url(../fonts/HelveticaNeueBoldCondensed.woff2) format("truetype");
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: "HelveticaNeue-Roman";
+    src: url(../fonts/Helvetica\ Neue\ LT\ W02\ 55\ Roman.woff2) format("truetype");
+    font-weight: 400;
+  }
+  
